@@ -1,6 +1,6 @@
 
-# title: "CS Opportunities for Beginners"
-## date: 2023-03-15
+# CS Opportunities for Beginners
+#### 2023-03-15
 
 List of beginner-friendly CS opportunities. 
 Please make a pull request if you know of any opportunities. :)
